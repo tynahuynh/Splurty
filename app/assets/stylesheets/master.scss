@@ -5,7 +5,7 @@
 }
 
 .circle {
-    font-weight:bold;
+    font-weight: bold;
     font-style: italic;
     position: relative;
     border-radius: 100%;
@@ -19,9 +19,9 @@
     font-size: 10px;
     line-height: 16px;
     cursor: pointer;
-    transform:rotate(11deg);
-    -ms-transform:rotate(11deg); /* IE 9 */
-    -webkit-transform:rotate(11deg); /* Opera, Chrome, and Safari */
+    transform: rotate(11deg);
+    -ms-transform: rotate(11deg); /* IE 9 */
+    -webkit-transform: rotate(11deg); /* Opera, Chrome, and Safari */
 }
 
 .slogan {
@@ -36,9 +36,10 @@
 
 .links a {
   color: black;
-  font-size: 15px;
+  font-size: 25px;
   border-bottom: 1px solid #dfdfdf;
   font-family: 'ralewayregular', sans-serif;
+  font-weight: bold;
 }
 
 header {
@@ -94,7 +95,7 @@ h2 {
 h2 span {
   color: #dddddd;
   font-family: 'ralewayregular', sans-serif;
-  font-size: 48px;
+  font-size: 30px;
   font-weight: bold;
 }
 
