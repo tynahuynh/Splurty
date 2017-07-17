@@ -1,24 +1,3 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Splurty
+A database-powered restaraunt generator with a mobile-first design, using the Ruby on Rails framework, HTML, and CSS. Uses Git and Github for version control, and launched on Heroku.
+![alt tag](https://user-images.githubusercontent.com/14388583/28289708-81ef9b74-6af8-11e7-8f1b-7718cac05d93.png)
